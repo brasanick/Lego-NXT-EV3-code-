@@ -1,4 +1,4 @@
-# Lego-NXT-EV3-code-
+# Lego-NXT-EV3-code
     Hello everyone! 
     Read this if you want to understand more about this project. 
     Now I'm on 3rd year of high school (finishing in 4 months).
